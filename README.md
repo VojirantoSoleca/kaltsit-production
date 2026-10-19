@@ -36,9 +36,3 @@ python helpers/render_review_assets.py --atlas deliverables/spritesheet.png --ou
 ```
 
 如需生成 MP4，可追加 `--ffmpeg` 参数并指定本机 FFmpeg 可执行文件路径。
-
-## 制作记录说明
-
-制作记录中的宠物 ID、启用状态和验证结果是原制作会话的历史记录。下载本仓库不会自动将宠物导入账号。原记录中的本机绝对路径已在本发布副本中改为仓库相对路径。
-
-原需求中的日文语音未接入；仓库不包含语音播放功能。完整设计记录见 [request-brief.md](production/request-brief.md)。
