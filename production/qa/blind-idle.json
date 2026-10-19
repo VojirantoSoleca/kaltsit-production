@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose, mouth and face plane sit left of the head center, with a larger hair mass on the right; B nose and face plane shift right with more hair visible on the left."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A nose and chin project right and its far right eye is compressed; B nose/chin project left and the left eye is compressed by the turn."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A face landmarks cluster toward screen-left under a larger right-side hair contour. B has the reverse face displacement, with nose and irises toward screen-right."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A nose and mouth are distinctly right of the hair/crown center and the right cheek is narrow; B nose/mouth are distinctly left, with wider hair and cheek mass on screen-right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A nose and chin favor screen-right beneath right-shifted eyes; B nose and mouth favor screen-left beneath left-shifted eyes."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A face plane and nose sit right of the crown center, with the nearer left eye wider. B face plane sits left and its nearer right eye is wider."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"Despite downward pitch, A nose/chin and eyes remain displaced left of the head center; B nose/chin and eyes are displaced right."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A eyes and nose sit high on an elongated exposed lower face with lifted chin. B exposes a broad top hair surface while the eyes, nose and compressed chin descend toward the collar."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A chin tucks near the collar and the brow/upper hair dominates; B raises the nose and chin, exposing a taller lower face below the eyes."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A nose and eye line are higher with a longer lower cheek and raised chin. B head pitches forward, lowering the nose/chin toward the collar and narrowing the lower face."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"Both turn horizontally, but A lifts its chin and eye line with irises toward the upper side; B lowers the chin and nose, with lower-set gaze and a more forward-bent brow. Vertical contrast is subtle."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A eyes, nose and mouth descend toward the collar under a large visible crown. B eyes and nose rise and the chin lifts, exposing a broad lower cheek."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A nose and upper-looking irises are high on the face and its chin lifts. B lowers its eye line/nose and tucks the chin closer to the shoulder cape."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A brow tilts forward and the nose/chin sit lower with a shorter lower cheek; B has a raised eye line/nose and a longer exposed lower face from lifting its chin. The pitch difference is small but visible."}
+  ]
+}

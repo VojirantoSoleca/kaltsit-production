@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A face center and nose sit toward the left within the hair silhouette, with irises tracking left; B nose and pupils shift toward the right side of the head."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A has the nose and exposed face turned toward screen-right with the left hair mass extending behind; B presents the opposite face placement and left-directed gaze."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A nose, mouth and eye centers are displaced left of the head center; B face points right and exposes more cheek and chin on that side."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A face and nose project into the right side of the head outline; B nose and gaze project into the left side with a larger trailing hair mass to the right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A facial center and pupils favor the right, while B nose and eyes favor the left and are framed by broader hair behind them on screen-right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Both heads are lowered, but A nose and mouth remain displaced right of the hair center; B lowered face is displaced toward screen-left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A lowered nose and face center lie toward screen-left within the hair silhouette; B lowered nose and face sit toward screen-right, with the larger hair sweep extending left."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A eyes sit high in a broad exposed face with lifted chin and upward iris placement. B fringe dominates the head, eyes and nose sit low and the visible chin is compressed."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A has enlarged visible crown/fringe and a compressed face below it; B eyes and nose are raised and the chin/face surface opens upward."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A face is raised with pupils high and more exposed lower cheek/chin. B brow and fringe angle downward over lower-set eyes and nose."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"The difference is subtle: A eyes and nose are higher, chin projects upward and lower face is more exposed; B eyes/nose sit lower beneath the fringe with a slight downward head pitch."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A crown is more visible and the face is compressed below the fringe, with lowered nose. B has upward-positioned pupils and a lifted, more exposed face and chin."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A chin lifts and eyes point upward beneath a less dominant crown; B crown/fringe takes more space and eyes and nose sit lower in the head."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"This pair is restrained: A face slopes downward with lower eyes/nose and less exposed chin; B eyes and nose lift slightly and the lower face opens upward."}
+  ]
+}

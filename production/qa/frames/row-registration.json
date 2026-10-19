@@ -1,0 +1,56 @@
+[
+  {
+    "state": "idle",
+    "uniform_scale": 0.8505154639175257,
+    "source_ground": 201.0,
+    "baseline": 198
+  },
+  {
+    "state": "running-right",
+    "uniform_scale": 0.8638743455497382,
+    "source_ground": 199.5,
+    "baseline": 198
+  },
+  {
+    "state": "running-left",
+    "uniform_scale": 0.859375,
+    "source_ground": 200.0,
+    "baseline": 198
+  },
+  {
+    "state": "waving",
+    "uniform_scale": 0.8461538461538461,
+    "source_ground": 201.5,
+    "baseline": 198
+  },
+  {
+    "state": "jumping",
+    "uniform_scale": 0.9795918367346939,
+    "source_ground": 202,
+    "baseline": 198
+  },
+  {
+    "state": "failed",
+    "uniform_scale": 0.8527131782945736,
+    "source_ground": 201.0,
+    "baseline": 198
+  },
+  {
+    "state": "waiting",
+    "uniform_scale": 0.868421052631579,
+    "source_ground": 201.0,
+    "baseline": 198
+  },
+  {
+    "state": "running",
+    "uniform_scale": 0.8505154639175257,
+    "source_ground": 201.0,
+    "baseline": 198
+  },
+  {
+    "state": "review",
+    "uniform_scale": 0.8418367346938775,
+    "source_ground": 202.0,
+    "baseline": 198
+  }
+]

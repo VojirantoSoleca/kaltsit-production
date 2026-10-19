@@ -1,0 +1,25 @@
+{
+  "pet_id": "pet_6ad5c8c8736c8191b73f81443ebca072",
+  "name": "凯尔希",
+  "description": "以所提供的Q版差分图为外观参考：灰绿短发、猫耳、绿眼与克制表情。冷静严谨、敏锐博学，专注工作，也以细微的微笑表达对同伴的信任与关怀。",
+  "is_custom": true,
+  "is_active": false,
+  "verified_in_list": true,
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "frames": 73,
+  "animation_states": 9,
+  "look_directions": 16,
+  "sha256": "46c10420a9bc13185485d356b37e9c0e10aebf968725b4cf21fe24eefc49f102",
+  "audio": {
+    "requested": "网站现有日文语音，CV日笠阳子",
+    "implemented": false,
+    "reason": "当前Pets接口没有音频上传或绑定字段"
+  },
+  "storage": {
+    "pets": "created and verified",
+    "chatgpt_library": "unavailable in this session",
+    "local_artifacts": "outputs/kaltsit"
+  }
+}

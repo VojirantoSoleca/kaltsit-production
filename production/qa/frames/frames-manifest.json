@@ -1,0 +1,170 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "production/qa/frames/idle/00.png",
+        "production/qa/frames/idle/01.png",
+        "production/qa/frames/idle/02.png",
+        "production/qa/frames/idle/03.png",
+        "production/qa/frames/idle/04.png",
+        "production/qa/frames/idle/05.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.8505154639175257,
+        "source_ground": 201.0,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "production/qa/frames/running-right/00.png",
+        "production/qa/frames/running-right/01.png",
+        "production/qa/frames/running-right/02.png",
+        "production/qa/frames/running-right/03.png",
+        "production/qa/frames/running-right/04.png",
+        "production/qa/frames/running-right/05.png",
+        "production/qa/frames/running-right/06.png",
+        "production/qa/frames/running-right/07.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.8638743455497382,
+        "source_ground": 199.5,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "production/qa/frames/running-left/00.png",
+        "production/qa/frames/running-left/01.png",
+        "production/qa/frames/running-left/02.png",
+        "production/qa/frames/running-left/03.png",
+        "production/qa/frames/running-left/04.png",
+        "production/qa/frames/running-left/05.png",
+        "production/qa/frames/running-left/06.png",
+        "production/qa/frames/running-left/07.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.859375,
+        "source_ground": 200.0,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "production/qa/frames/waving/00.png",
+        "production/qa/frames/waving/01.png",
+        "production/qa/frames/waving/02.png",
+        "production/qa/frames/waving/03.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.8461538461538461,
+        "source_ground": 201.5,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "production/qa/frames/jumping/00.png",
+        "production/qa/frames/jumping/01.png",
+        "production/qa/frames/jumping/02.png",
+        "production/qa/frames/jumping/03.png",
+        "production/qa/frames/jumping/04.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.9795918367346939,
+        "source_ground": 202,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "production/qa/frames/failed/00.png",
+        "production/qa/frames/failed/01.png",
+        "production/qa/frames/failed/02.png",
+        "production/qa/frames/failed/03.png",
+        "production/qa/frames/failed/04.png",
+        "production/qa/frames/failed/05.png",
+        "production/qa/frames/failed/06.png",
+        "production/qa/frames/failed/07.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.8527131782945736,
+        "source_ground": 201.0,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "production/qa/frames/waiting/00.png",
+        "production/qa/frames/waiting/01.png",
+        "production/qa/frames/waiting/02.png",
+        "production/qa/frames/waiting/03.png",
+        "production/qa/frames/waiting/04.png",
+        "production/qa/frames/waiting/05.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.868421052631579,
+        "source_ground": 201.0,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "running",
+      "frames": [
+        "production/qa/frames/running/00.png",
+        "production/qa/frames/running/01.png",
+        "production/qa/frames/running/02.png",
+        "production/qa/frames/running/03.png",
+        "production/qa/frames/running/04.png",
+        "production/qa/frames/running/05.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.8505154639175257,
+        "source_ground": 201.0,
+        "baseline": 198
+      }
+    },
+    {
+      "state": "review",
+      "frames": [
+        "production/qa/frames/review/00.png",
+        "production/qa/frames/review/01.png",
+        "production/qa/frames/review/02.png",
+        "production/qa/frames/review/03.png",
+        "production/qa/frames/review/04.png",
+        "production/qa/frames/review/05.png"
+      ],
+      "method": "components",
+      "registration": {
+        "uniform_scale": 0.8418367346938775,
+        "source_ground": 202.0,
+        "baseline": 198
+      }
+    }
+  ]
+}

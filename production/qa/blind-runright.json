@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose and exposed face center sit left of the head and torso center; B face and nose shift right, with the left-side hair mass more exposed."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A nose points right and right cheek is shortened; B nose points left and left cheek narrows while the right bob section is broader."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A nose and mouth are displaced left beneath leftward eyes; B nose and mouth are displaced right within a face turned toward screen-right."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A face shows a clear right-facing three-quarter turn, with nose right of torso center; B nose and face opening face screen-left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A green eye/face assembly and nose sit to the right of the head center; B turns that assembly left and exposes more hair on screen-right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Despite both heads pitching low, A nose sits right of neck center and B nose sits left; their cheek and side-hair asymmetry supports those turns."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A lowered face and nose are offset left of the torso; B lowered face and nose are offset right, with opposite side-hair exposure."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A chin is raised with a tall exposed lower face and eyes near the upper lid; B crown dominates while the lowered face, nose and mouth compress toward the collar."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A shows more crown/forehead and a short lower face tipped toward the chest; B lifts chin and exposes a long cheek/lower-face area beneath upward-set eyes."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A lower face extends vertically with raised chin; B forehead/crown grows and chin approaches the collar as the head pitches down. The difference is moderate but readable."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A face is lifted, showing more lower cheek below the eyes; B eyes and mouth sit lower under the bangs with a shorter lower face. Pitch is subtle but directional."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A head tips forward with expanded crown and chin tucked into the neck; B raises chin and has a larger exposed lower-face area with upward-directed eyes."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A nose and chin are raised in a taller face beneath high eyes; B head pitches down, bringing the shortened face and mouth close to the collar."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A has the lower gaze and tucked chin, with more hair above its eye line; B lifts the face and eyes, exposing more cheek and lower face. Mild but readable vertical separation."}
+  ]
+}

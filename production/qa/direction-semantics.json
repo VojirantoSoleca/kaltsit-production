@@ -1,0 +1,117 @@
+{
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "Chin and face lift; eyes sit high under the bangs.",
+      "verdict": "pass",
+      "evidence": "Longer exposed lower face and upward eye-line relative to neutral, symmetric nose centered."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "Raised face begins yawing toward screen-right.",
+      "verdict": "warning",
+      "evidence": "Nose is slightly right of head center, lifted chin and high irises retain upward pitch; small step similar to 045."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "Open face tilts upward and right.",
+      "verdict": "pass",
+      "evidence": "Right-shifted nose and shortened right cheek with raised eye-line and exposed chin."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "Mostly rightward head turn with a mild upward pitch.",
+      "verdict": "warning",
+      "evidence": "Nose/near eye shifted right, chin remains lifted; upward component is restrained beside 090."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "Head and eyes point toward viewer right.",
+      "verdict": "pass",
+      "evidence": "Nose sits clearly right of head center, right cheek foreshortened and face plane turned right while feet stay frontal."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "Rightward face begins lowering.",
+      "verdict": "warning",
+      "evidence": "Nose remains right-shifted; eye-line and chin lower and bangs cover more forehead relative to 090; downward component subtle."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "Head tucks down while retaining rightward yaw.",
+      "verdict": "pass",
+      "evidence": "Lowered eyelids/face and increased crown area show down; nose and compressed cheek remain viewer-right."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "Strong downward pitch with slight right yaw.",
+      "verdict": "pass",
+      "evidence": "Chin close to collar, broad crown, low eyes; nose still right of face/head midpoint."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "Head bows directly downward.",
+      "verdict": "pass",
+      "evidence": "Centered nose, strongly lowered eye-line, tucked chin and enlarged visible crown; eyes remain open."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "Bowed head starts turning left.",
+      "verdict": "pass",
+      "evidence": "Low eye-line and chin remain tucked; nose and facial center offset left under the crown."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "Downward leftward gaze.",
+      "verdict": "pass",
+      "evidence": "Nose is left of head center, left cheek compressed; lowered face/eye-line show downward pitch."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "Mostly leftward with mild downward head pitch.",
+      "verdict": "warning",
+      "evidence": "Face and irises left-shifted; chin/eye-line lower than 270, though the vertical step is small."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "Head and eyes point toward viewer left.",
+      "verdict": "pass",
+      "evidence": "Nose visibly left of head center, left cheek shortened and right hair/cheek surface broader; body stays frontal."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "Leftward face starts rising.",
+      "verdict": "warning",
+      "evidence": "Nose remains left-shifted; face and chin lift, irises higher than 270, modest vertical change."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "Head pitches up while looking left.",
+      "verdict": "pass",
+      "evidence": "Left face-plane offset and left-aimed irises combine with raised chin and longer exposed lower face."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "Mostly upward gaze with residual leftward turn.",
+      "verdict": "pass",
+      "evidence": "High chin/eye-line and exposed underside of face; nose remains subtly left of head center before return to 000."
+    }
+  ],
+  "continuity_review": "All sixteen preserve connected collar, frontal legs, body scale and identity. Metric hole warnings occur between feline ear tips above the solid head; they are exterior negative space, not holes in the face. 000->022.5 and 157.5->180 differ more than adjacent pairs but preserve continuous head movement and anchored feet."
+}
